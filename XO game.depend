@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593777566 source:c:\users\devah\desktop\xo game\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
